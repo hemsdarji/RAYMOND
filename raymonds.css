@@ -77,3 +77,17 @@
     padding-right: 16px;
     
 }
+.homesec1{
+    padding-top: 176px;
+}
+.move_ment{
+    border:BLACK 2px SOLID;
+    color: rgb(0, 0, 0);
+    font-weight: 400;
+}
+.banner_heading{
+    font-size: 64px;
+    font-family: poppins;
+    font-weight: 600;
+    line-height: 64px;
+}
